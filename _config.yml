@@ -1,0 +1,28 @@
+name: TheBMP
+favicon: null
+layout_spectrum: 0.39010185399092734
+typography_spectrum: 0.36960979807190597
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7801224084105343
+  lightness: 0.2513288245536387
+  saturation: 0.7251998360734433
+  rhythmicContrast: 0.45248968340456486
+purpose: []
